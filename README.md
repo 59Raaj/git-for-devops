@@ -5,3 +5,11 @@
 
 
 This respository ia for Understanding git Concept for DevOps
+
+
+
+
+Includes:
+
+Commands
+
